@@ -1,0 +1,7 @@
+.elementor-422 .elementor-element.elementor-element-405dbdbb{--display:flex;--background-transition:0.3s;}/* Start custom CSS for contact-buttons, class: .elementor-element-27b15ff9 */#ast-scroll-top {
+    position: fixed;
+    right: 20px; /* Ajuste conforme necessário */
+    bottom: 20px; /* Ajuste conforme necessário */
+    z-index: 9999; /* Mantém o botão na frente */
+    max-width: 50px; /* Evita que o botão fique muito grande */
+}/* End custom CSS */
